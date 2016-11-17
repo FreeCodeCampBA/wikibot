@@ -1,1 +1,5 @@
+# dependencies directory
 node_modules/
+
+# do not commit real token
+token.js
