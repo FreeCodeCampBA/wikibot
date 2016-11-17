@@ -14,7 +14,10 @@
     "slack",
     "bot"
   ],
-  "author": "Nicolas Quiroz",
+  "author": {
+    "name": "Nicolas Quiroz",
+    "email": "nh.quiroz@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FreeCodeCampBA/wikibot/issues"
