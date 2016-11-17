@@ -1,0 +1,23 @@
+{
+  "name": "fccba-wikibot",
+  "version": "1.0.0",
+  "description": "A Slack Bot that remembers you we have an awesome collection of free complimentary resources to learn about Full Stack JavaScript Development",
+  "main": "lib/wikibot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeCodeCampBA/wikibot.git"
+  },
+  "keywords": [
+    "slack",
+    "bot"
+  ],
+  "author": "Nicolas Quiroz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FreeCodeCampBA/wikibot/issues"
+  },
+  "homepage": "https://github.com/FreeCodeCampBA/wikibot#readme"
+}
