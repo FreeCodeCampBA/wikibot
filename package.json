@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/FreeCodeCampBA/wikibot/issues"
   },
-  "homepage": "https://github.com/FreeCodeCampBA/wikibot#readme"
+  "homepage": "https://github.com/FreeCodeCampBA/wikibot#readme",
+  "dependencies": {
+    "slackbots": "^0.5.3"
+  }
 }
