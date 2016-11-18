@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-'use strict';
+"use strict";
 
 /**
  * WikiBot launcher script.
@@ -8,7 +8,7 @@
  * @author Nicolas Quiroz <nh.quiroz@gmail.com>
  */
 
-var WikiBot = require('../lib/wikibot');
+var WikiBot = require("../lib/wikibot");
 
 /**
  * Environment variables used to configure the bot:
@@ -16,7 +16,7 @@ var WikiBot = require('../lib/wikibot');
  *  BOT_API_KEY: the authentication token to allow the bot to connect to your slack organization.
  *  BOT_NAME: the username you want to give to the bot within your organization.
  */
-var token = process.env.BOT_API_KEY || require('../token');
+var token = process.env.BOT_API_KEY || require("../token");
 var name = process.env.BOT_NAME;
 
 var wikibot = new WikiBot({
