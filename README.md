@@ -1,10 +1,6 @@
-<h1 align="center">
-  <br>
-    :space_invader: wikibot
-  <br>
-</h1>
+# :space_invader: wikibot
 
-Un bot para nuestro **[`chat en Slack`](https://freecodecampba.org/chat)** que te recuerda sobre nuestra **[`wiki`](https://github.com/FreeCodeCampBA/wiki)**, con muchos recursos complementarios y gratuitos sobre desarrollo Full Stack en JavaScript.
+> Un bot para nuestro **[`chat en Slack`](https://freecodecampba.org/chat)** que te recuerda sobre nuestra **[`wiki`](https://github.com/FreeCodeCampBA/wiki)**, con muchos recursos complementarios y gratuitos sobre desarrollo Full Stack en JavaScript.
 
 Hecho con NodeJS y **[`slackbots`](https://www.npmjs.com/package/slackbots)**/**[`Slack Real Time Messaging API`](https://api.slack.com/rtm)**.
 
